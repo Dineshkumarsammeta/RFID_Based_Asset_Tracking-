@@ -25,7 +25,7 @@ This project aimed to create a low-cost RFID tracking solution for indoor hospit
 ---
 
 ## ⚙️ Methodology
-1. Attached **HF RFID tags** to selected medical devices.
+1. Attached **HF RFID tags** to selected devices.
 2. Installed RFID readers at ward entrances and central corridors.
 3. Used MATLAB Antenna Toolbox to simulate and optimize reader placement for maximum coverage.
 4. Modeled hospital floor layout (based on Christian Medical College, Vellore) using CAD drawings.
