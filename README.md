@@ -17,8 +17,8 @@ Design and implement an RFID-based system to track and locate critical medical e
 ---
 
 ## 🏥 Background & Relevance
-In many Indian hospitals, nurses and technicians often waste critical minutes searching for wheelchairs, infusion pumps, and ECG machines. This delay impacts patient care, especially in emergency situations.  
-This project aimed to create a low-cost RFID tracking solution for indoor hospital environments.  
+Nurses and technicians in many Indian hospitals frequently squander valuable time looking for wheelchairs, ECG devices, and infusion pumps. Patient care is impacted by this delay, particularly in emergency scenarios.  
+The goal of this project was to develop an affordable RFID monitoring system for use in indoor medical settings.  
 
 **NHS Relevance:** Hospitals in the UK face similar challenges in equipment management, making this project applicable to NHS facility operations.
 
